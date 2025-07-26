@@ -1,0 +1,13 @@
+[project]
+name = "cdk-cognito-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aws-cdk-lib>=2.207.0",
+    "cognitojwt>=1.4.1",
+    "constructs>=10.4.2",
+    "fastapi[standard]>=0.116.1",
+    "requests>=2.32.4",
+]
