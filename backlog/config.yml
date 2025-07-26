@@ -1,0 +1,12 @@
+project_name: cdk-cognito-project
+statuses:
+  - To Do
+  - In Progress
+  - Done
+default_status: To Do
+default_assignee: []
+date_format: yyyy-mm-dd
+auto_open_browser: true
+default_port: 6420
+remote_operations: false
+auto_commit: false 
